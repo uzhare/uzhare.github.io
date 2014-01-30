@@ -6,18 +6,33 @@
     font-family: 'handwritting';
     font-style: normal;
     font-weight: 500;
-    src: url('/res/tallpaul.ttf')
+    src: url('/res/OpenSans-Light.ttf')
+        format('truetype');
+}
+
+@font-face {
+    font-family: 'about';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/res/OpenSans-Bold.ttf')
         format('truetype');
 }
 
 #blog-title {
     font-family: 'handwritting';  
-    font-size: 50px;
-    font-style: italic;
-    text-transform: uppercase;
+    font-size: 40px;
 }
 #blog-title a{    
     text-decoration: none;
+}
+.about-title{
+    font-family: 'handwritting';
+    font-size: 30px;
+}
+
+.about-me {
+    font-family: 'about';
+    font-size: 40px;
 }
 /* Base */
 * { margin:0; padding:0; font-family:inherit; }
@@ -40,7 +55,7 @@ div.breaker { clear:both; }
 
 img { border:none; vertical-align:bottom; }
 strong { font-weight:bold; }
-hr { height:1px; border:none; background-color:#ddd; }
+hr { height:1px; border:none; background-color: #272822; }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Poly', helvetica, sans-serif;
