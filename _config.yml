@@ -1,0 +1,16 @@
+title: Uzhare Farooq
+description: "Uzhare Farooq: Blog"
+
+port: 3000
+pygments: true
+
+permalink: /:year/:month/:day/:title.html
+markdown: redcarpet
+
+google_analytics: #
+
+owner:
+  name: Uzhare  Farooq
+  disqus_shortname: uzhare
+  twitter: uzhare
+  
