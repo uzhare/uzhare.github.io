@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Saving binary data to MSQL using pyodbc 
+title:  Saving binary data to MsSQL using pyodbc 
 tags:   blogging
 ---
 
