@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title></title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2014-02-03T11:21:40+05:30</updated>
+ <id></id>
+ <author>
+   <name></name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Saving binary data to MsSQL using pyodbc</title>
+   <link href="/2014/01/29/saving-binary-data-sqlalchemy.html"/>
+   <updated>2014-01-29T00:00:00+05:30</updated>
+   <id>/2014/01/29/saving-binary-data-sqlalchemy</id>
+   <content type="html">This blog post is yet to be published. The content shall be available soon.
+
+Thanks for visting.</content>
+ </entry>
+ 
+ <entry>
+   <title>Living in an abnormal Society</title>
+   <link href="/2014/01/29/living-in-an-abnormal-society.html"/>
+   <updated>2014-01-29T00:00:00+05:30</updated>
+   <id>/2014/01/29/living-in-an-abnormal-society</id>
+   <content type="html">This blog post is yet to be published. The content shall be available soon.
+
+Thanks for visting.</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting user email in Python Social Auth</title>
+   <link href="/2014/01/29/Twitter-partial-pipeline.html"/>
+   <updated>2014-01-29T00:00:00+05:30</updated>
+   <id>/2014/01/29/Twitter-partial-pipeline</id>
+   <content type="html">This blog post is yet to be published. The content shall be available soon.
+
+Thanks for visting.</content>
+ </entry>
+ 
+ <entry>
+   <title>A Generic spider example with Scrapy</title>
+   <link href="/2014/01/29/Scrapy-Generic-Spider.html"/>
+   <updated>2014-01-29T00:00:00+05:30</updated>
+   <id>/2014/01/29/Scrapy-Generic-Spider</id>
+   <content type="html">This blog post is yet to be published. The content shall be available soon.
+
+Thanks for visting.</content>
+ </entry>
+ 
+ <entry>
+   <title>For The Son; The Father; and The Security reasons</title>
+   <link href="/2014/01/29/For-the-son-the-father-and-the-national-security.html"/>
+   <updated>2014-01-29T00:00:00+05:30</updated>
+   <id>/2014/01/29/For-the-son-the-father-and-the-national-security</id>
+   <content type="html">This blog post is yet to be published. The content shall be available soon.
+
+Thanks for visting.</content>
+ </entry>
+ 
+ 
+</feed>
